@@ -45,11 +45,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/oganesik" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://t.me/oganesiik" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=telegram style="margin-bottom: 5px;size:30px" />
+<img height="44" width="144" src=https://img.shields.io/badge/-telegram-red?color=23A9EB&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
